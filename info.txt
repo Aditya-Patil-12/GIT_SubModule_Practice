@@ -1,3 +1,5 @@
 This the content inside the submodule of the parent repo
 
 This the content added by parent repo.
+
+Another line added from submodule
